@@ -1,6 +1,6 @@
 # Veltro
 
-Veltro es una aplicación académica desarrollada como proyecto final de egreso de la Tecnicatura de Redes y Software del Instituto Superior Arias Balparda.
+Veltro es una aplicación académica desarrollada como proyecto final de egreso de la Tecnicatura de Redes y Software del Instituto Superior Brazo Oriental.
 
 Este espacio reúne los repositorios, documentación y recursos técnicos vinculados al desarrollo del proyecto.
 
@@ -12,7 +12,7 @@ El proyecto busca demostrar una solución completa, mantenible y documentada, co
 
 ## Contexto Académico
 
-- **Institución:** Instituto Superior Arias Balparda
+- **Institución:** Instituto Superior Brazo Oriental
 - **Carrera:** Tecnicatura de Redes y Software
 - **Instancia:** Proyecto final de egreso
 - **Organización:** Veltro
@@ -40,4 +40,4 @@ Proyecto en desarrollo como parte del proceso académico de egreso.
 
 ---
 
-Desarrollado en el marco de la Tecnicatura de Redes y Software del Instituto Superior Arias Balparda.
+Desarrollado en el marco de la Tecnicatura de Redes y Software del Instituto Superior Bazo Oriental.
